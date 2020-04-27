@@ -17,7 +17,7 @@ After than you can proceeded with running the project for the first time.
 
 ```
 //Clone the project
-https://github.com/Future-Forward/spotify-test.git
+https://github.com/aleks-the-man/test-spotify-app
 
 // Open project directory
 cd spotify-test
